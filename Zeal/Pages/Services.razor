@@ -1,0 +1,94 @@
+﻿@* @page "/services"
+
+<section class="py-5">
+    <div class="container">
+        <h1 class="fw-bold text-center mb-5">Our Services</h1>
+        <div class="row text-center">
+            <div class="col-md-4 mb-4">
+                <i class="bi bi-gear-wide-connected fs-1 text-orange"></i>
+                <h5 class="fw-bold mt-2">Custom Fabrication</h5>
+                <p>We design and fabricate custom metal components using modern tools and precision techniques.</p>
+            </div>
+            <div class="col-md-4 mb-4">
+                <i class="bi bi-lightning-charge fs-1 text-orange"></i>
+                <h5 class="fw-bold mt-2">Industrial Welding</h5>
+                <p>MIG, TIG, and arc welding services for structural integrity and long-lasting durability.</p>
+            </div>
+            <div class="col-md-4 mb-4">
+                <i class="bi bi-building fs-1 text-orange"></i>
+                <h5 class="fw-bold mt-2">Steel Structures</h5>
+                <p>Fabrication and erection of steel beams, columns, trusses, and industrial framing systems.</p>
+            </div>
+        </div>
+    </div>
+</section> *@
+
+
+@page "/services"
+
+<style>
+    h1.section-title {
+        color: red;
+    }
+
+    .service-box h5,
+    .service-box p {
+        color: black;
+    }
+
+    .text-orange {
+        color: #f97316;
+    }
+
+    .service-box {
+        background-color: #f9f9f9;
+        padding: 1.5rem;
+        border-radius: 12px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .service-box:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        .service-box i {
+            transition: transform 0.3s ease;
+        }
+
+        .service-box:hover i {
+            transform: scale(1.2);
+        }
+</style>
+
+<section class="py-5">
+    <div class="container">
+        <h1 class="section-title fw-bold text-center mb-5">Our Services</h1>
+
+        <div class="row text-center">
+            <div class="col-md-4 mb-4">
+                <div class="service-box">
+                    <i class="bi bi-gear-wide-connected fs-1 text-orange"></i>
+                    <h5 class="fw-bold mt-2">Custom Fabrication</h5>
+                    <p>We design and fabricate custom metal components using modern tools and precision techniques.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="service-box">
+                    <i class="bi bi-lightning-charge fs-1 text-orange"></i>
+                    <h5 class="fw-bold mt-2">Industrial Welding</h5>
+                    <p>MIG, TIG, and arc welding services for structural integrity and long-lasting durability.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="service-box">
+                    <i class="bi bi-building fs-1 text-orange"></i>
+                    <h5 class="fw-bold mt-2">Steel Structures</h5>
+                    <p>Fabrication and erection of steel beams, columns, trusses, and industrial framing systems.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
