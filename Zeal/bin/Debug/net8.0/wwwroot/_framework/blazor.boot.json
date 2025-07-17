@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Zeal",
   "resources": {
-    "hash": "sha256-b1chesH4/bCpXptt5a4TkSP8dwgSesHzBFhEh49vlPM=",
+    "hash": "sha256-NM27p4f1nfPj+1Fp70pFEv/Y3SWMJ9LcjOsi0/gF5Ig=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-UnQd0YPXNpwbXsKqO8RAqgUVuwZsSpprfAIPpdV/y1Q=",
       "netstandard.wasm": "sha256-/QbD8JDZyYwfyk89W3qJL3HTAINDCVziZIySHIZcDhw=",
       "System.Private.CoreLib.wasm": "sha256-oBqNgH7R24FqGbaL3XnfQDqn3rk28jERFosgAryKT6U=",
-      "Zeal.wasm": "sha256-WLNNNQM7/awns+7ndSGR2HxJ8vjzPk4Pho+vlG8jM3k="
+      "Zeal.wasm": "sha256-J1zFUJkD60L+jL/4Meg4DymQmfenmDhZudtnozXXvdA="
     },
     "pdb": {
-      "Zeal.pdb": "sha256-F4TlESIzj3+54tKzJzU8WNCrkD4v3b8QuF0moMHg7n8="
+      "Zeal.pdb": "sha256-KC6mzy/h34PZWsSQhl+n6VKeEFkoIMOiOdV/4YW3JB4="
     }
   },
   "cacheBootResources": true,

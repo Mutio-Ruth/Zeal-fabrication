@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zeal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a58208ffadb1f09ed4f995b34aa804aec14986b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zeal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zeal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
