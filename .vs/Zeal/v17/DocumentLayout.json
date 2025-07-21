@@ -100,10 +100,9 @@
               "RelativeDocumentMoniker": "Zeal\\wwwroot\\index.html",
               "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\wwwroot\\index.html",
               "RelativeToolTip": "Zeal\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-15T06:28:04.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T06:28:04.391Z"
             },
             {
               "$type": "Document",
@@ -111,8 +110,8 @@
               "Title": "Zeal.csproj",
               "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Zeal.csproj",
               "RelativeDocumentMoniker": "Zeal\\Zeal.csproj",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Zeal.csproj*",
-              "RelativeToolTip": "Zeal\\Zeal.csproj*",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Zeal.csproj",
+              "RelativeToolTip": "Zeal\\Zeal.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-14T05:54:48.663Z",

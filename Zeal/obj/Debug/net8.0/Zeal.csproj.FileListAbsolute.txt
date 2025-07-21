@@ -1021,9 +1021,6 @@ C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\compressed\vlmvg91rge-tj
 C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\compressed\af2m2e1705-tptq2av103.gz
 C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\compressed\cuxsl4q42y-lfu7j35m59.gz
 C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\compressed\iowpayc1ks-oyz0vx2fzb.gz
-C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\compressed\u96763xyds-djm3b14t6x.gz
-C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\compressed\a2bz1h3m2j-4hb7kyca35.gz
-C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\compressed\mqhw2hkb83-1vn11caedo.gz
 C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\staticwebassets.development.json
@@ -1034,3 +1031,6 @@ C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\Zeal.dll
 C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\refint\Zeal.dll
 C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\Zeal.pdb
 C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\ref\Zeal.dll
+C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\compressed\u96763xyds-e4lx394898.gz
+C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\compressed\a2bz1h3m2j-imgs5gj4n7.gz
+C:\Users\lenovo\source\repos\Zeal\Zeal\obj\Debug\net8.0\compressed\mqhw2hkb83-20kpqhnh70.gz
