@@ -1854,11 +1854,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Zeal.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Source\\Repos\\zeal-fabrication\\Zeal\\Zeal.csproj",
       "projectName": "Zeal",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Zeal.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Source\\Repos\\zeal-fabrication\\Zeal\\Zeal.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Source\\Repos\\zeal-fabrication\\Zeal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

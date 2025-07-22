@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zeal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a690ac80dc71098f73abcbecea95aec6014d648")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+092e7b7daf98b601f60bbc6a4a6d58a0a2ed1f81")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zeal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zeal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

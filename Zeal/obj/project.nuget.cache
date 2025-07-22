@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mIjL8URZ1Qw=",
+  "dgSpecHash": "RWLcS3CYDPo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Zeal.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Zeal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.18\\microsoft.aspnetcore.authorization.8.0.18.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.18\\microsoft.aspnetcore.components.8.0.18.nupkg.sha512",

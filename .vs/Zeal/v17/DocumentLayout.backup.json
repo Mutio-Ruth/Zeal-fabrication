@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\Zeal\\",
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal\\zeal\\zeal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal-fabrication\\zeal\\zeal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|solutionrelative:zeal\\zeal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal\\zeal\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal-fabrication\\zeal\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|solutionrelative:zeal\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal\\zeal\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal-fabrication\\zeal\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|solutionrelative:zeal\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal\\zeal\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal-fabrication\\zeal\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|solutionrelative:zeal\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal\\zeal\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal-fabrication\\zeal\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|solutionrelative:zeal\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal\\zeal\\shared\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal-fabrication\\zeal\\shared\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|solutionrelative:zeal\\shared\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal\\zeal\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal-fabrication\\zeal\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|solutionrelative:zeal\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal\\zeal\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal-fabrication\\zeal\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|solutionrelative:zeal\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal\\zeal\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal-fabrication\\zeal\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|solutionrelative:zeal\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal\\zeal\\pages\\project.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal-fabrication\\zeal\\pages\\project.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|solutionrelative:zeal\\pages\\project.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal\\zeal\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal-fabrication\\zeal\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|solutionrelative:zeal\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal\\zeal\\pages\\services.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal-fabrication\\zeal\\pages\\services.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|solutionrelative:zeal\\pages\\services.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal\\zeal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|c:\\users\\lenovo\\source\\repos\\zeal-fabrication\\zeal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13D21DB0-BC94-4771-8E67-ED571327733E}|Zeal\\Zeal.csproj|solutionrelative:zeal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,15 +62,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Shared\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "Zeal\\Shared\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Shared\\NavMenu.razor",
               "RelativeToolTip": "Zeal\\Shared\\NavMenu.razor",
               "ViewState": "AgIAAEsAAAAAAAAAAAAUwFEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -80,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\_Imports.razor",
               "RelativeDocumentMoniker": "Zeal\\_Imports.razor",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\_Imports.razor",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\_Imports.razor",
               "RelativeToolTip": "Zeal\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -92,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\wwwroot\\index.html",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Zeal\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\wwwroot\\index.html",
               "RelativeToolTip": "Zeal\\wwwroot\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -104,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Zeal.csproj",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Zeal.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Source\\Repos\\zeal-fabrication\\Zeal\\Zeal.csproj",
               "RelativeDocumentMoniker": "Zeal\\Zeal.csproj",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Zeal.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\Source\\Repos\\zeal-fabrication\\Zeal\\Zeal.csproj",
               "RelativeToolTip": "Zeal\\Zeal.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -117,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Shared\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "Zeal\\Shared\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Shared\\MainLayout.razor",
               "RelativeToolTip": "Zeal\\Shared\\MainLayout.razor",
               "ViewState": "AgIAAEoAAAAAAAAAAAAUwF8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -129,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Footer.razor",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Shared\\Footer.razor",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Shared\\Footer.razor",
               "RelativeDocumentMoniker": "Zeal\\Shared\\Footer.razor",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Shared\\Footer.razor",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Shared\\Footer.razor",
               "RelativeToolTip": "Zeal\\Shared\\Footer.razor",
               "ViewState": "AgIAAB4AAAAAAAAAAAAUwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -141,9 +145,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Services.razor",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Pages\\Services.razor",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Pages\\Services.razor",
               "RelativeDocumentMoniker": "Zeal\\Pages\\Services.razor",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Pages\\Services.razor",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Pages\\Services.razor",
               "RelativeToolTip": "Zeal\\Pages\\Services.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -153,9 +157,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Project.razor",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Pages\\Project.razor",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Pages\\Project.razor",
               "RelativeDocumentMoniker": "Zeal\\Pages\\Project.razor",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Pages\\Project.razor",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Pages\\Project.razor",
               "RelativeToolTip": "Zeal\\Pages\\Project.razor",
               "ViewState": "AgIAAEgAAAAAAAAAAAAUwFkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -165,9 +169,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Contact.razor",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Pages\\Contact.razor",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Pages\\Contact.razor",
               "RelativeDocumentMoniker": "Zeal\\Pages\\Contact.razor",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Pages\\Contact.razor",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Pages\\Contact.razor",
               "RelativeToolTip": "Zeal\\Pages\\Contact.razor",
               "ViewState": "AgIAALcAAAAAAAAAAAAIwM0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -177,9 +181,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Zeal\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Pages\\Home.razor",
               "RelativeToolTip": "Zeal\\Pages\\Home.razor",
               "ViewState": "AgIAAN4AAAAAAAAAAAAUwOUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -189,9 +193,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\wwwroot\\css\\app.css",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "Zeal\\wwwroot\\css\\app.css",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\wwwroot\\css\\app.css",
               "RelativeToolTip": "Zeal\\wwwroot\\css\\app.css",
               "ViewState": "AgIAAF8AAAAAAAAAAAAuwHYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -201,9 +205,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "About.razor",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Pages\\About.razor",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Pages\\About.razor",
               "RelativeDocumentMoniker": "Zeal\\Pages\\About.razor",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Pages\\About.razor",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Pages\\About.razor",
               "RelativeToolTip": "Zeal\\Pages\\About.razor",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -213,17 +217,13 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Program.cs",
               "RelativeDocumentMoniker": "Zeal\\Program.cs",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Zeal\\Zeal\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Program.cs",
               "RelativeToolTip": "Zeal\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T05:52:39.943Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
             }
           ]
         }

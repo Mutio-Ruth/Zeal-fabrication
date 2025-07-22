@@ -13,53 +13,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Zeal
 build_property.RootNamespace = Zeal
-build_property.ProjectDir = C:\Users\lenovo\source\repos\Zeal\Zeal\
+build_property.ProjectDir = C:\Users\lenovo\source\repos\zeal-fabrication\Zeal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\lenovo\source\repos\Zeal\Zeal
+build_property.MSBuildProjectDirectory = C:\Users\lenovo\source\repos\zeal-fabrication\Zeal
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/lenovo/source/repos/Zeal/Zeal/App.razor]
+[C:/Users/lenovo/source/repos/zeal-fabrication/Zeal/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lenovo/source/repos/Zeal/Zeal/Pages/About.razor]
+[C:/Users/lenovo/source/repos/zeal-fabrication/Zeal/Pages/About.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lenovo/source/repos/Zeal/Zeal/Pages/Contact.razor]
+[C:/Users/lenovo/source/repos/zeal-fabrication/Zeal/Pages/Contact.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lenovo/source/repos/Zeal/Zeal/Pages/Home.razor]
+[C:/Users/lenovo/source/repos/zeal-fabrication/Zeal/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lenovo/source/repos/Zeal/Zeal/Pages/Project.razor]
+[C:/Users/lenovo/source/repos/zeal-fabrication/Zeal/Pages/Project.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lenovo/source/repos/Zeal/Zeal/Pages/Services.razor]
+[C:/Users/lenovo/source/repos/zeal-fabrication/Zeal/Pages/Services.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lenovo/source/repos/Zeal/Zeal/Shared/Footer.razor]
+[C:/Users/lenovo/source/repos/zeal-fabrication/Zeal/Shared/Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZvb3Rlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lenovo/source/repos/Zeal/Zeal/Shared/MainLayout.razor]
+[C:/Users/lenovo/source/repos/zeal-fabrication/Zeal/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lenovo/source/repos/Zeal/Zeal/Shared/NavMenu.razor]
+[C:/Users/lenovo/source/repos/zeal-fabrication/Zeal/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lenovo/source/repos/Zeal/Zeal/_Imports.razor]
+[C:/Users/lenovo/source/repos/zeal-fabrication/Zeal/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
