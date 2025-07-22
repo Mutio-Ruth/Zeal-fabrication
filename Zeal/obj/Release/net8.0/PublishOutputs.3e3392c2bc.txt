@@ -1,2 +1,0 @@
-C:\Users\lenovo\source\repos\Zeal\publish\emcc-props.json
-C:\Users\lenovo\source\repos\Zeal\publish\web.config
