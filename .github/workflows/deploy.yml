@@ -19,11 +19,12 @@ jobs:
         run: dotnet restore
 
       - name: Build the project
-        run: dotnet publish -c Release -o build /p:StaticWebAssetBasePath=/zeal-fabrication
+        run: dotnet publish Zeal/Zeal.csproj -c Release -o build /p:StaticWebAssetBasePath=/zeal-fabrication
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: build/wwwroot
+          publish_branch: gh-pages
           force_orphan: true
