@@ -62,12 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -108,9 +104,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Zeal.csproj",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Source\\Repos\\zeal-fabrication\\Zeal\\Zeal.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Zeal.csproj",
               "RelativeDocumentMoniker": "Zeal\\Zeal.csproj",
-              "ToolTip": "C:\\Users\\lenovo\\Source\\Repos\\zeal-fabrication\\Zeal\\Zeal.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\zeal-fabrication\\Zeal\\Zeal.csproj",
               "RelativeToolTip": "Zeal\\Zeal.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

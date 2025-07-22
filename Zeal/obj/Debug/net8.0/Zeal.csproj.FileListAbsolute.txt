@@ -2067,6 +2067,6 @@ C:\Users\lenovo\Source\Repos\zeal-fabrication\Zeal\obj\Debug\net8.0\Zeal.dll
 C:\Users\lenovo\Source\Repos\zeal-fabrication\Zeal\obj\Debug\net8.0\refint\Zeal.dll
 C:\Users\lenovo\Source\Repos\zeal-fabrication\Zeal\obj\Debug\net8.0\Zeal.pdb
 C:\Users\lenovo\Source\Repos\zeal-fabrication\Zeal\obj\Debug\net8.0\ref\Zeal.dll
-C:\Users\lenovo\source\repos\zeal-fabrication\Zeal\obj\Debug\net8.0\compressed\u96763xyds-ivggt9ltz6.gz
-C:\Users\lenovo\source\repos\zeal-fabrication\Zeal\obj\Debug\net8.0\compressed\a2bz1h3m2j-lg234ug4f3.gz
-C:\Users\lenovo\source\repos\zeal-fabrication\Zeal\obj\Debug\net8.0\compressed\mqhw2hkb83-fresfjxy6t.gz
+C:\Users\lenovo\source\repos\zeal-fabrication\Zeal\obj\Debug\net8.0\compressed\u96763xyds-2bfcrmbxkl.gz
+C:\Users\lenovo\source\repos\zeal-fabrication\Zeal\obj\Debug\net8.0\compressed\a2bz1h3m2j-s1dum5q0ww.gz
+C:\Users\lenovo\source\repos\zeal-fabrication\Zeal\obj\Debug\net8.0\compressed\mqhw2hkb83-ovar1fu8ks.gz
