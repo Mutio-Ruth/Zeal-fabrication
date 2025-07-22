@@ -5,26 +5,30 @@ on:
     branches: [main]
 
 jobs:
-  build:
+  build-and-deploy:
+    name: Build and Deploy Blazor App
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Setup .NET SDK
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 🔧 Setup .NET SDK
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '8.0.x'
 
-      - name: Restore dependencies
+      - name: 📦 Restore Dependencies
         run: dotnet restore
 
-      - name: Build the project
+      - name: 🛠️ Build Blazor WASM App
         run: dotnet publish Zeal/Zeal.csproj -c Release -o build /p:StaticWebAssetBasePath=/zeal-fabrication
 
-      - name: Deploy to GitHub Pages
+      - name: 🚀 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: build/wwwroot
           publish_branch: gh-pages
+          cname: ""
           force_orphan: true
